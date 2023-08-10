@@ -27,7 +27,7 @@
   "dependencies": {
     "autoprefixer": "^6.3.7",
     "leaflet": "^0.7.0",
-    "postcss-loader": "^0.9.1"
+    "postcss-loader": "^0.13.0"
   },
   "peerDependencies": {
     "leaflet": "^0.7.0"
